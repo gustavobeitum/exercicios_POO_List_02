@@ -1,4 +1,4 @@
-package Exercicios_2_6.core;
+package Exercicio_2_6.core;
 
 public class Circulo {
     private double raio;

@@ -1,9 +1,9 @@
-package Exercicios_2_6.app;
+package Exercicio_2_6.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import Exercicios_2_6.core.Circulo;
+import Exercicio_2_6.core.Circulo;
 
 public class Main {
     public static void main(String[] args) {
